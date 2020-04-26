@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dd889bd-ad07-4866-b4d4-6faa9d5a19e0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wt92AmKQbQcLy6bgBpNwJ69O5e" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BeerKegs">
+    <configuration name="BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeerKegs" />
+      <module name="03_Excercise_BasicSyntax_ConditionalStatements_andLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintPartsOfTheASCITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintPartsOfTheASCITable" />
+      <module name="03_Excercise_BasicSyntax_ConditionalStatements_andLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfChars" />
+      <module name="03_Excercise_BasicSyntax_ConditionalStatements_andLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriplesOfLatinLetters" />
+      <module name="03_Excercise_BasicSyntax_ConditionalStatements_andLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaterOverflow" />
+      <module name="03_Excercise_BasicSyntax_ConditionalStatements_andLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SumOfChars" />
+      <item itemvalue="Application.PrintPartsOfTheASCITable" />
+      <item itemvalue="Application.TriplesOfLatinLetters" />
+      <item itemvalue="Application.WaterOverflow" />
+      <item itemvalue="Application.BeerKegs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeerKegs" />
+        <item itemvalue="Application.WaterOverflow" />
+        <item itemvalue="Application.TriplesOfLatinLetters" />
+        <item itemvalue="Application.PrintPartsOfTheASCITable" />
+        <item itemvalue="Application.SumOfChars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd889bd-ad07-4866-b4d4-6faa9d5a19e0" name="Default Changelist" comment="" />
+      <created>1579957814073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579957814073</updated>
+    </task>
+    <servers />
+  </component>
+</project>
